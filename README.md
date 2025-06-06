@@ -53,6 +53,7 @@ pip install baltic pandas matplotlib numpy
 
 
 ![download](https://github.com/user-attachments/assets/ebbe6c59-57f9-4080-a06a-3205410a510f)
+![image](https://github.com/user-attachments/assets/07f48bee-018f-44e3-a28c-185dbf34fa75)
 
 
 
