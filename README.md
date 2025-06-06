@@ -49,9 +49,11 @@ You can install these dependencies using pip:
 
 ```bash
 pip install baltic pandas matplotlib numpy
+```
 
-![image](https://github.com/user-attachments/assets/b85b8eb5-8ef7-48d2-b941-9f37e07b655c)
-![image](https://github.com/user-attachments/assets/50cb2eda-ee0a-4d13-93f3-1caa38587aae)
+
+![download](https://github.com/user-attachments/assets/ebbe6c59-57f9-4080-a06a-3205410a510f)
+
 
 
 
